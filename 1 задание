@@ -1,0 +1,14 @@
+# PR1_Zyankina_lab_rab_1
+<!DOCTYPE HTML> 
+<html> 
+
+<body> 
+<script> 
+var x=prompt("введите величину стороны");
+var c;
+c =Math.pow(x, 2)* (Math.sqrt(3)/4);
+document.write("Площадь: " + c)
+
+</script> 
+</body> 
+</html>
